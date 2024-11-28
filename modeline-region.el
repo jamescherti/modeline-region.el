@@ -6,7 +6,7 @@
 ;; Maintainer: Drew Adams
 ;; Copyright (C) 2006-2023, Drew Adams, all rights reserved.
 ;; Created: Thu Nov  4 19:58:03 2021 (-0700)
-;; Version: 0
+;; Version: 1.0.0
 ;; Package-Requires: ()
 ;; Last-Updated: Sat Dec 31 14:11:42 2022 (-0800)
 ;;           By: dradams
